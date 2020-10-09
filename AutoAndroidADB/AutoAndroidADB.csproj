@@ -55,11 +55,14 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="obj\Debug\.NETFramework,Version=v4.7.2.AssemblyAttributes.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="obj\Debug\AutoAndroidADB.Form1.resources" />
+    <EmbeddedResource Include="obj\Debug\AutoAndroidADB.Properties.Resources.resources" />
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
@@ -69,6 +72,13 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <None Include="bin\Debug\AutoAndroidADB.exe.config" />
+    <None Include="obj\Debug\AutoAndroidADB.csproj.CopyComplete" />
+    <None Include="obj\Debug\AutoAndroidADB.csproj.CoreCompileInputs.cache" />
+    <None Include="obj\Debug\AutoAndroidADB.csproj.GenerateResource.cache" />
+    <None Include="obj\Debug\AutoAndroidADB.csprojAssemblyReference.cache" />
+    <None Include="obj\Debug\DesignTimeResolveAssemblyReferences.cache" />
+    <None Include="obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
@@ -81,6 +91,28 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="bin\Debug\adb.exe" />
+    <Content Include="bin\Debug\AdbWinApi.dll" />
+    <Content Include="bin\Debug\AdbWinUsbApi.dll" />
+    <Content Include="bin\Debug\AutoAndroidADB.exe" />
+    <Content Include="bin\Debug\AutoAndroidADB.pdb" />
+    <Content Include="bin\Debug\concrt140.dll" />
+    <Content Include="bin\Debug\cvextern.dll" />
+    <Content Include="bin\Debug\Emgu.CV.World.dll" />
+    <Content Include="bin\Debug\KAutoHelper.dll" />
+    <Content Include="bin\Debug\msvcp140.dll" />
+    <Content Include="bin\Debug\opencv_ffmpeg341.dll" />
+    <Content Include="bin\Debug\opencv_ffmpeg343.dll" />
+    <Content Include="bin\Debug\vcruntime140.dll" />
+    <Content Include="obj\Debug\AutoAndroidADB.csproj.FileListAbsolute.txt" />
+    <Content Include="obj\Debug\AutoAndroidADB.exe" />
+    <Content Include="obj\Debug\AutoAndroidADB.pdb" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="bin\Debug\Data\" />
+    <Folder Include="obj\Debug\TempPE\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
