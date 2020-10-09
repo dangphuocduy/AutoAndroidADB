@@ -1,0 +1,12 @@
+C:\Users\dangp\source\repos\AutoAndroidADB\AutoAndroidADB\bin\Debug\AutoAndroidADB.exe.config
+C:\Users\dangp\source\repos\AutoAndroidADB\AutoAndroidADB\bin\Debug\AutoAndroidADB.exe
+C:\Users\dangp\source\repos\AutoAndroidADB\AutoAndroidADB\bin\Debug\AutoAndroidADB.pdb
+C:\Users\dangp\source\repos\AutoAndroidADB\AutoAndroidADB\bin\Debug\KAutoHelper.dll
+C:\Users\dangp\source\repos\AutoAndroidADB\AutoAndroidADB\obj\Debug\AutoAndroidADB.csprojAssemblyReference.cache
+C:\Users\dangp\source\repos\AutoAndroidADB\AutoAndroidADB\obj\Debug\AutoAndroidADB.Form1.resources
+C:\Users\dangp\source\repos\AutoAndroidADB\AutoAndroidADB\obj\Debug\AutoAndroidADB.Properties.Resources.resources
+C:\Users\dangp\source\repos\AutoAndroidADB\AutoAndroidADB\obj\Debug\AutoAndroidADB.csproj.GenerateResource.cache
+C:\Users\dangp\source\repos\AutoAndroidADB\AutoAndroidADB\obj\Debug\AutoAndroidADB.csproj.CoreCompileInputs.cache
+C:\Users\dangp\source\repos\AutoAndroidADB\AutoAndroidADB\obj\Debug\AutoAndroidADB.csproj.CopyComplete
+C:\Users\dangp\source\repos\AutoAndroidADB\AutoAndroidADB\obj\Debug\AutoAndroidADB.exe
+C:\Users\dangp\source\repos\AutoAndroidADB\AutoAndroidADB\obj\Debug\AutoAndroidADB.pdb
